@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TufPay</string>
+
+    <string name="home_user_name">Alex</string>
+    <string name="home_greeting">Hey, %1$s</string>
+    <string name="home_subtitle">Add your yesterday\'s expense</string>
+    <string name="home_brand">TufPay</string>
+    <string name="home_logo_letter">T</string>
+    <string name="home_balance_label">Balance: %1$s</string>
+    <string name="home_your_expenses">Your expenses</string>
+    <string name="home_weekly">Weekly</string>
+    <string name="home_monthly">Monthly</string>
+    <string name="home_expenses_empty">No expenses for this period. Add one with +.</string>
+    <string name="trend_less_week">Lesser than last week</string>
+    <string name="trend_more_week">More than last week</string>
+    <string name="trend_same_week">Same as last week</string>
+    <string name="trend_new_week">New this week</string>
+    <string name="trend_less_month">Lesser than last month</string>
+    <string name="trend_more_month">More than last month</string>
+    <string name="trend_same_month">Same as last month</string>
+    <string name="trend_new_month">New this month</string>
+
+    <string name="cd_search">Search</string>
+    <string name="cd_notifications">Notifications</string>
+
+    <string name="balance_title">Your Balances</string>
+    <string name="balance_subtitle">Manage your multi-currency accounts</string>
+    <string name="balance_last_check">Last check on %1$s</string>
+    <string name="balance_available_currencies">Available Currencies</string>
+    <string name="balance_enable">Enable</string>
+    <string name="balance_primary">Primary</string>
+    <string name="balance_margin_label">Current margin: %1$s spendings</string>
+    <string name="health_line_excellent">Your financial health is excellent</string>
+    <string name="health_line_good">Your financial health is good</string>
+    <string name="health_line_average">Your credit score is average</string>
+    <string name="health_line_fair">There is room to improve your balance</string>
+    <string name="health_line_poor">Focus on income and reducing expenses</string>
+
+    <string name="profile_screen_title">Profile</string>
+    <string name="profile_tab_preview">Preview</string>
+    <string name="profile_tab_edit">Edit</string>
+    <string name="profile_total_spendings">Total spendings</string>
+    <string name="profile_email_label">Email</string>
+    <string name="profile_balance_label">Balance</string>
+    <string name="profile_email_placeholder">No email set</string>
+    <string name="profile_default_name_hint">Your name</string>
+    <string name="profile_edit_name_label">Display name</string>
+    <string name="profile_edit_email_label">Email</string>
+    <string name="profile_save">Save profile</string>
+    <string name="profile_full_name_label">Full name</string>
+    <string name="profile_full_name_placeholder">Enter your full name</string>
+    <string name="profile_email_hint_placeholder">Enter your email</string>
+    <string name="profile_password_label">Password</string>
+    <string name="profile_password_placeholder">Create a password</string>
+    <string name="profile_confirm_password_label">Confirm password</string>
+    <string name="profile_confirm_password_placeholder">Confirm your password</string>
+    <string name="profile_update_details">Update Details</string>
+    <string name="cd_show_password">Show password</string>
+    <string name="cd_hide_password">Hide password</string>
+    <string name="profile_more_settings">More</string>
+    <string name="profile_appearance_section">Appearance</string>
+    <string name="profile_dark_theme">Dark theme</string>
+    <string name="profile_version_line">Version %1$s</string>
+    <string name="profile_logout">Logout</string>
+    <string name="profile_clear_data">Clear all transaction data</string>
+    <string name="profile_clear_dialog_title">Clear all data?</string>
+    <string name="profile_clear_dialog_message">This removes every transaction. Categories stay available.</string>
+    <string name="profile_clear_confirm">Clear</string>
+    <string name="profile_clear_cancel">Cancel</string>
+
+    <string name="auth_welcome_title">Welcome to TufPay</string>
+    <string name="auth_welcome_subtitle">Send money globally with the real exchange rate</string>
+    <string name="auth_get_started">Get started</string>
+    <string name="auth_get_started_subtitle">Sign in to your account or create a new one</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_sign_up">Sign Up</string>
+    <string name="auth_create_account">Create Account</string>
+    <string name="auth_password_placeholder">Enter your password</string>
+    <string name="auth_forgot_password">Forgot password?</string>
+
+    <string name="splash_heading">TufPay</string>
+    <string name="splash_tagline">Be rich through tracking your expense</string>
+    <string name="splash_footer">Powered by TUF assignment Akhilesh</string>
+</resources>

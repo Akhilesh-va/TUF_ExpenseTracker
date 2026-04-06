@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "712914244287",
+    "firebase_url": "https://financemanager-6e95b-default-rtdb.firebaseio.com",
+    "project_id": "financemanager-6e95b",
+    "storage_bucket": "financemanager-6e95b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712914244287:android:c936cb2cc0b1149783ec0a",
+        "android_client_info": {
+          "package_name": "com.financemanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YKMpyC3INxYz-ixBvEs9MGOZF20_wn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
