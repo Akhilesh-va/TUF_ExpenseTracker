@@ -60,6 +60,7 @@
     <string name="cd_hide_password">Hide password</string>
     <string name="profile_more_settings">More</string>
     <string name="profile_appearance_section">Appearance</string>
+    <string name="profile_light_theme">Light theme</string>
     <string name="profile_dark_theme">Dark theme</string>
     <string name="profile_version_line">Version %1$s</string>
     <string name="profile_logout">Logout</string>

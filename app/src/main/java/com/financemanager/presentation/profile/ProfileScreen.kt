@@ -376,7 +376,11 @@ private fun ProfileEditContent(
             verticalAlignment = Alignment.CenterVertically,
         ) {
             Text(
-                stringResource(R.string.profile_dark_theme),
+                text = if (content.isDarkTheme) {
+                    stringResource(R.string.profile_dark_theme)
+                } else {
+                    stringResource(R.string.profile_light_theme)
+                },
                 style = MaterialTheme.typography.bodyLarge,
                 color = scheme.onSurface,
             )
